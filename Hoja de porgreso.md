@@ -6,4 +6,4 @@ Se actualiza Trello.
 Progreso tareas 6-07-2022.
 Se crea AMI
 Se cambia Fondo de Pantalla 
-se instala Docker en su ultima Version, WAMP, Kubernetes, Visual Studio, El ejecutable de Terraform, Jenkins en su última versión, GIT 
+se instala Docker en su última Version, WAMP, Kubernetes, Visual Studio, El ejecutable de Terraform, Jenkins en su última versión, GIT 
